@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(158, 158, 158, 0.15);
+}
+
+#legend{
+        text-align: center;
+}
+
+.line-legend {
+    display: inline;
+}
+
+.line-legend > li {
+    list-style-type: none;
+    color: #666;
+    display: inline;
+    margin-right: 5px;
+}
